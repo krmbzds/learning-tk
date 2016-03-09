@@ -41,3 +41,10 @@ Code: [checkbutton_widget.py](checkbutton_widget.py)
 * Provides a checkbox with a text label
 * Has two states: on and off
 * Denotes a boolean property (True and False)
+
+### Label Widget
+
+Code: [label_widget.py](label_widget.py)
+
+* Used to display text tor images
+* No user interaction
