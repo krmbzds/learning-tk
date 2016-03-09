@@ -30,6 +30,14 @@ Code: [hello_tkinter.py](hello_tkinter.py)
 
 Code: [hello_again.py](hello_again.py)
 
-  * Used for adding buttons in a Python application
-  * Can display text or images
-  * You can attach a function or a method to a button which is called automatically when the button is clicked
+* Used for adding buttons in a Python application
+* Can display text or images
+* You can attach a function or a method to a button which is called automatically when the button is clicked
+
+### Checkbutton Widget
+
+Code: [checkbutton_widget.py](checkbutton_widget.py)
+
+* Provides a checkbox with a text label
+* Has two states: on and off
+* Denotes a boolean property (True and False)
