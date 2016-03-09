@@ -1,6 +1,6 @@
 # Tkinter Notes
 
-## Terms and Concepts
+### Terms and Concepts
 
 * Widget: Elements the make up the GUI
   * Invisible container widgets (e.g. Frame)
@@ -18,13 +18,17 @@ Tkinter provides 18 built-in widget implementations.
 * Scrollbar
 * Frame
 
-### Hello Tkinter: [hello_tkinter.py](hello_tkinter.py)
+### Hello Tkinter
+
+Code: [hello_tkinter.py](hello_tkinter.py)
 
 * Initialization: Create Tk root which is a window
   * One root per application
   * It should be created before anything else
 
-### Button Widget: [hello_again.py](hello_again.py)
+### Button Widget
+
+Code: [hello_again.py](hello_again.py)
 
   * Used for adding buttons in a Python application
   * Can display text or images
