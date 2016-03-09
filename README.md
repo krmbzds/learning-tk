@@ -48,3 +48,10 @@ Code: [03_label_widget.py](03_label_widget.py)
 
 * Used to display text tor images
 * No user interaction
+
+### ListBox Widget
+
+Code: [04_listbox_widget.py](04_listbox_widget.py)
+
+* Displays a list of entries
+* Allows selecting one or multiple items
