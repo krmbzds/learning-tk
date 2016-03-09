@@ -65,3 +65,11 @@ Code: [05_entry_widget.py](05_entry_widget.py)
   * You want to display one or more lines of text that cannot be modified by the user
 * Use Text widget if:
   * You want to display multiple lines of text that can be edited
+
+### Text widget
+
+Code: [06_text_widget.py](06_text_widget.py)
+
+* Provides formatted text display
+* Allow you to display and edit text with various styles and attributes
+* Supports embedded images and windows
