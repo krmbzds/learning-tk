@@ -20,7 +20,7 @@ Tkinter provides 18 built-in widget implementations.
 
 ### Hello Tkinter
 
-Code: [hello_tkinter.py](hello_tkinter.py)
+Code: [00_hello_tkinter.py](00_hello_tkinter.py)
 
 * Initialization: Create Tk root which is a window
   * One root per application
@@ -28,7 +28,7 @@ Code: [hello_tkinter.py](hello_tkinter.py)
 
 ### Button Widget
 
-Code: [hello_again.py](hello_again.py)
+Code: [01_button_widget.py](01_button_widget.py)
 
 * Used for adding buttons in a Python application
 * Can display text or images
@@ -36,7 +36,7 @@ Code: [hello_again.py](hello_again.py)
 
 ### Checkbutton Widget
 
-Code: [checkbutton_widget.py](checkbutton_widget.py)
+Code: [02_checkbutton_widget.py](02_checkbutton_widget.py)
 
 * Provides a checkbox with a text label
 * Has two states: on and off
@@ -44,7 +44,7 @@ Code: [checkbutton_widget.py](checkbutton_widget.py)
 
 ### Label Widget
 
-Code: [label_widget.py](label_widget.py)
+Code: [03_label_widget.py](03_label_widget.py)
 
 * Used to display text tor images
 * No user interaction
