@@ -55,3 +55,13 @@ Code: [04_listbox_widget.py](04_listbox_widget.py)
 
 * Displays a list of entries
 * Allows selecting one or multiple items
+
+### Entry Widget
+
+Code: [05_entry_widget.py](05_entry_widget.py)
+
+* Used to accept single-line text from a user
+* Use the Label widget if
+  * You want to display one or more lines of text that cannot be modified by the user
+* Use Text widget if:
+  * You want to display multiple lines of text that can be edited
